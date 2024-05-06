@@ -1,0 +1,48 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+
+.text-white{
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.font-big{
+    font-size: 40px;
+}
+
+
+.background{
+    height: 100vh;
+    width: 100vw;
+    background-color: antiquewhite;
+}
+
+
+.btn{
+    background-color: green;
+    border: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    font-size: 20px;
+    color: white;
+    border-radius: 4px;
+
+    /* padding: 5px 10px; */
+}
